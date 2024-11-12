@@ -32,7 +32,7 @@ labels_list = ['hadgime', 'kato1', 'kato2', 'kato3', 'kato4', 'kiai', 'naure', '
 5. Получили финальный датасет.
 
 *Статистика датасета*
-![Статистика датасета](images/Dataset_statistics.PNG)
+![Статистика датасета](images/Dataset_statistics.png)
 
 ### Шаг 3.Извлечение признаков из аудио
 #### Модель YAMNet от Tensorflow
